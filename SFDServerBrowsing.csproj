@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
+	<PublishSingleFile>true</PublishSingleFile>
+    <SignAssembly>False</SignAssembly>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <PlatformTarget>x86</PlatformTarget>
+    <FileVersion>1.1</FileVersion>
+    <AssemblyVersion>1.1</AssemblyVersion>
+    <Version>1.1</Version>
+  </PropertyGroup>
+
+</Project>
